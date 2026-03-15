@@ -7,7 +7,8 @@ Colección de programas y scripts en Python que voy desarrollando para practicar
 | # | Archivo | Descripción |
 |---|---------|-------------|
 | 01 | `Python` | Creador de contraseñas seguras |
-| 02 | *Próximamente* | *En desarrollo* | 
+| 02 | `PortScanner` | scaner de puertos | 
+| 03 | *Próximamente* | *En desarrollo* | 
 
 ## Cómo usar
 cada carpeta tiene su readme.md
